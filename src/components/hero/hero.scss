@@ -1,0 +1,14 @@
+.container{
+    height: 50vh;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    h1{
+        font-size: 50px;
+        color: rgb(251, 105, 0);
+    }
+}
